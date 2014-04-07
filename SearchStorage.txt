@@ -1,0 +1,2646 @@
+how+do+I+get+is+a+value+?,~ declare, make, decalres, makes ,~
+integras,~ What topic is giving you trouble? ,~
+sd,~ Hi ,~
+sd,~ Welcome ,~
+eh,~ Good Morning ,~
+sd,~ Hi ,~
+sd,~ Hi ,~
+sd,~ Hi ,~
+hesss,~ Hey ,~
+sd,~ Do you need help? ,~
+ ello govna ,~ Whats crackin? ,~
+ test ,~ Do you need help? ,~
+ What's up ? ,~ Welcome ,~
+ yes ,~ What's crackin? ,~
+ sd ,~ Good Evening ,~
+ ds ,~ Yo ,~
+ sd ,~ Howdy ,~
+ heyyy ,~ What's crackalackin? ,~
+ length ,~ array, arrays ,~
+ value ,~ boolean, true/false, true or false, true, false, booleans ,~
+ value ,~ boolean, true/false, true or false, true, false, booleans ,~
+ value ,~ boolean, true/false, true or false, true, false, booleans ,~
+ value ,~ boolean, true/false, true or false, true, false, booleans ,~
+ cast ,~ int, ints, integer, integers, whole number, whole numbers ,~
+ she ,~ array, arrays ,~
+ she ,~ array, arrays ,~
+ longs ,~ array, arrays ,~
+ she ,~ array, arrays ,~
+ decimal ,~ byte, bytes ,~
+ for ,~ memory, ram ,~
+ static ,~ long, longs ,~
+ null ,~ array, arrays ,~
+ array ,~ array, arrays ,~
+ add ,~ Do you need help with anything? ,~
+ lan ,~ array, arrays ,~
+ add ,~ Do you need help with anything? ,~
+ goodafternoon ,~ array, arrays ,~
+ goodafternoon ,~ array, arrays ,~
+ o ,~ G'day ,~
+ serverhello ,~,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help with anything? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Do you need help? ,~
+ clienthello ,~ Can I help you? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help with anything? ,~
+ serverhello ,~ Can I help you? ,~
+ clienthello ,~ Do you need help? ,~
+ serverhello ,~ Can I help you? ,~
+ Can I help you ? ,~,~
+ Can I help you ? ,~ Can I help you? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ long, longs ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ long, longs ,~
+ Do you need help ? ,~ do, do statement ,~
+ Peace out ,~ Can I help you? ,~
+ cya ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Talk to you later ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Bye ,~ Can I help you? ,~
+ Until next time ,~ Can I help you? ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Adios ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ I am confused . . . ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ cya ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Smell you later ,~ Do you need help? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Au revoir ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ cya ,~ Can I help you? ,~
+ Catch is a Java reserved word that is used to specify an exception handler , defined after a try block . Anything else regarding this topic ? ,~ how, why, what, example, use ,~
+ Do you need help ? ,~ catch ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: Can I help you ? ,~,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Have a good one ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Peace ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Have a good one ,~ Do you need help? ,~
+ Peace ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Server: All right then ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Smell ya later ,~ Can I help you? ,~
+ Smell ya later ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Server: Smell ya later ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Server: Until next time ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Au revoir ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Bye bye ,~ Do you need help? ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Bye ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Server: Talk to you later ,~ Do you need help with anything? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: I am confused . . . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ So long ,~ long, longs ,~
+ Server: I am confused . . . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: Im out ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Have a good one ,~ Do you need help? ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Smell ya later ,~ Can I help you? ,~
+ Server: Ciao ,~ Can I help you? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: Ciao ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Server: Adios ,~ Do you need help? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: Smell ya later ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Im out ,~ Do you need help with anything? ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: I am confused . . . ,~ how, what, use, example ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: Later ,~ Can I help you? ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ The long data type is a 64-bit twos complement integer . The signed long has a minimum value of -2^63 and a maximum value of 2^63 -1 . Use this data type when you need a range of values wider than those provided by int .  What other questions do you have about this topic ? ,~ int, ints, integer, integers, whole number, whole numbers ,~
+ Server: I am confused . . . ,~ long, longs ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Smell you later ,~ Do you need help with anything? ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ long, longs ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Bye ,~ Do you need help? ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Im out ,~ Do you need help? ,~
+ Server: Im out ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: All right then ,~ Do you need help with anything? ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ catch ,~
+ Server: Can I help you ? ,~ if, else, if-else statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Ciao ,~ Do you need help? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ long, longs ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Server: Later ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Bye ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Smell ya later ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Peace ,~ Do you need help with anything? ,~
+ Server: Talk to you later ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Server: Peace ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: All right then ,~ Can I help you? ,~
+ Server: Im out ,~ Do you need help? ,~
+ Server: cya ,~ Can I help you? ,~
+ Server: Later ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Adios ,~ Do you need help with anything? ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Peace out ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Until next time ,~ Do you need help? ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Peace ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: I am confused . . . ,~ how, what, use, example ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: Peace out ,~ Do you need help with anything? ,~
+ Server: Sayonara ,~ Can I help you? ,~
+ Server: Ciao ,~ Do you need help with anything? ,~
+ Server: Smell you later ,~ Can I help you? ,~
+ Server: Peace ,~ Do you need help? ,~
+ Server: Until next time ,~ Do you need help? ,~
+ Catch you later ,~ catch ,~
+ Peace ,~ Can I help you? ,~
+ Im out ,~ Do you need help with anything? ,~
+ Server: All right then ,~ Do you need help with anything? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Later ,~ Can I help you? ,~
+ Server: I am confused . . . ,~ Do you need help with anything? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Bye bye ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ I am confused . . . ,~ how, what, use, example ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Peace ,~ how, what, use, example ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ cya ,~ Can I help you? ,~
+ Catch is a Java reserved word that is used to specify an exception handler , defined after a try block . Anything else regarding this topic ? ,~ catch ,~
+ Server: Do you need help ? ,~ catch ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help with anything? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Au revoir ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help with anything? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Server: Adios ,~ Do you need help? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: I am confused . . . ,~ how, what, use, example ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ a ,~ Can I help you? ,~
+ a ,~ Do you need help with anything? ,~
+ a ,~ Do you need help with anything? ,~
+ a ,~ Do you need help? ,~
+ a ,~ Do you need help with anything? ,~
+ a ,~ Do you need help with anything? ,~
+ a ,~ Do you need help? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Bye ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ if, else, if-else statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Adios ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ All right then ,~ Do you need help with anything? ,~
+ Have a good one ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ if, else, if-else statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Smell ya later ,~ Do you need help? ,~
+ Can I help you ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Talk to you later ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Do you need help ? ,~ long, longs ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Smell you later ,~ this, this statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Do you need help ? ,~ do, do statement ,~
+ Have a good one ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Adios ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Later ,~ Do you need help? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Peace out ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Have a good one ,~ Do you need help with anything? ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ Smell ya later ,~ Can I help you? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ this, this statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Catch you later ,~ catch ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Can I help you ? ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ Do you need help ? ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Smell you later ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Bye ,~ Do you need help with anything? ,~
+ Adios ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Catch you later ,~ catch ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Do you need help with anything ? ,~ this, this statement ,~
+ I am confused . . . ,~ if, else, if-else statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ I am confused . . . ,~ if, else, if-else statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Im out ,~ do, do statement ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Peace out ,~ Do you need help? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Can I help you ? ,~ if, else, if-else statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ I am confused . . . ,~ Can I help you? ,~
+ I am confused . . . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ cya ,~ do, do statement ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Do you need help ? ,~ this, this statement ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ yep ,~ Do you need help? ,~
+ no ,~ What can I help you with? ,~
+ exceptionhandler ,~ Yo ,~
+ run ,~ Howdy ,~
+ sort ,~ boolean, true/false, true or false, true, false, booleans ,~
+ final ,~ boolean, true/false, true or false, true, false, booleans ,~
+ exceptionhandler ,~ constant, constants ,~
+ you ok ,~ What area do you need help with? ,~
+ run ok runtimeerror ,~ Ahoy ,~
+ cast ,~ int, ints, integer, integers, whole number, whole numbers ,~
+ run ,~ Salutations ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . Anything else regarding this topic ? ,~ print, println ,~
+ Server: Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: I am confused . . . ,~ how, what, use, example ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ So long ,~ long, longs ,~
+ Server: Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Catch you later ,~ catch ,~
+ Server: Sorry , I dont understand . ,~ Do you need help with anything? ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  What other questions do you have about this topic ? ,~ this, this statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ Server: So long ,~ long, longs ,~
+ Server: So long ,~ long, longs ,~
+ Server: Catch you later ,~ catch ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ Server: A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I am confused . . . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Catch you later ,~ catch ,~
+ I am confused . . . ,~ Can I help you? ,~
+ Server: Can I help you ? ,~ Can I help you? ,~
+ Sorry , I dont understand . ,~ Can I help you? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Can I help you ? ,~ if, else, if-else statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ So long ,~ long, longs ,~
+ Server: I am confused . . . ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Im out ,~ What can I help you with? ,~
+ Server: Can I help you ? ,~ What area do you need help with? ,~
+ Can I help you ? ,~ Can I help you? ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ Sorry , I dont understand . ,~ Do you need help? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Server: To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Sorry , I dont understand . ,~ how, what, use, example ,~
+ To write a do statement use do{ . . .}while(condition) .  For example , if you want to print the value of an int variable x while it is less that 5 you can write do{ System .out .println(x);  x++; }while( x < 5 ) . What other questions do you have about this topic ? ,~ print, println ,~
+ Server: What topic is giving you trouble ? ,~ how, what, use, example ,~
+ Do you need help with anything ? ,~ do, do statement ,~
+ Server: I am confused . . . ,~ Do you need help with anything? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: So long ,~ long, longs ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: Sorry , I dont understand . ,~ do, do statement ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Sorry , I dont understand . ,~ do, do statement ,~
+ Server: Can I help you ? ,~ Do you need help with anything? ,~
+ Im out ,~ Can I help you? ,~
+ Server: Do you need help ? ,~ do, do statement ,~
+ So long ,~ long, longs ,~
+ Server: I am confused . . . ,~ What topic is giving you trouble? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Do you need help with anything ? ,~ do, do statement ,~
+ I am confused . . . ,~ Do you need help with anything? ,~
+ A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Server: I am confused . . . ,~ do, do statement ,~
+ Can I help you ? ,~ Do you need help? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ A Java reserved word that specifies a simple conditional construct .  Anything else regarding this topic ? ,~ do, do statement ,~
+ Server: Can I help you ? ,~ if, else, if-else statement ,~
+ Do you need help ? ,~ do, do statement ,~
+ Server: Sorry , I dont understand . ,~ Do you need help? ,~
+ Can I help you ? ,~ Do you need help with anything? ,~
+ Server: I am confused . . . ,~ Can I help you? ,~
+ Server: A do statement is a Java reserved word that represents a repetition construct . A do statement is executed one or more times . Also ask about for , while .  What other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ shadowingvariable ,~,~
+ shadowingvariable ,~,~
+ breakstatements ,~ Good Evening ,~
+ sayonara ,~ sort, sorts, sorting ,~
+ breakstatements ,~ Hello ,~
+ breakstatements ,~ Hello ,~
+ breakstatements ,~ Hey ,~
+ thisstatement ,~ Can I help you? ,~
+ yes ,~ array, arrays, table ,~
+ shadowingvariable ,~ Good Evening ,~
+ shadowingvariable ,~ Do you need help? ,~
+ shadowingvariable ,~ Do you need help with anything? ,~
+ shadowingvariable ,~ Greetings ,~
+ shadowingvariable ,~ What's crackin? ,~
+ shadowingvariable ,~ What topic is giving you trouble? ,~
+ shadowingvariable ,~ Can I help you? ,~
+ shadowingvariable ,~ Hi there ,~
+ shabalaba ,~ Whats crackalackin? ,~
+ infastructure ,~ What can I help you with? ,~
+ infastructure ,~ Do you need help with anything? ,~
+ infastructure ,~ Do you need help with anything? ,~
+ poop ,~ Hi ,~
+ poop ,~ Can I help you? ,~
+ poop ,~ Do you need help with anything? ,~
+ poop ,~ Whats up ,~
+ or email the library  ? ,~ Can I help you? ,~
+ e or the marketplace ,~ Whats crackin? ,~
+ e or the ,~ Can I help you? ,~
+ tables are ,~ G'day ,~
+ are tableaus ,~ Hey ,~
+ are tableaus ,~ Hi ,~
+ tables are ,~ What's crackalackin? ,~
+ tables ,~ array, arrays, table ,~
+ tableazu ,~ Hey ,~
+ asdasd ,~ Howdy ,~
+ tablz ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ what are poop ,~ array, arrays, table ,~
+ poop ,~ Whats crackalackin? ,~
+ poop ,~ Do you need help with anything? ,~
+ poop ,~ Do you need help? ,~
+ poop ,~ Do you need help with anything? ,~
+ poop ,~ Do you need help? ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ poop ,~ Whats up ,~
+ insurance ,~ Do you need help? ,~
+ tables are ,~ Where are you having a hard time? ,~
+ play ,~ What can I help you with? ,~
+ i dont want to go outside today ,~ What can I help you with? ,~
+ i dont want to go outside ,~ What can I help you with? ,~
+ what is poop ? ,~ Can I help you? ,~
+ what is poop ,~ Can I help you? ,~
+ what is poop ,~ Whats crackin? ,~
+ tables are ,~ Do you need help? ,~
+ Have you heard Beyonces new album ? ,~ array, arrays, table ,~
+ What about the new 50 Cent song ? ,~ array, arrays, table ,~
+ Have you seen the new Batman movie ? ,~ Can I help you? ,~
+ batman movie ,~ Can I help you? ,~
+ batman movie ,~ Can I help you? ,~
+ batman movie ,~ Can I help you? ,~
+ Have you seen batman ? ,~ Welcome ,~
+ Where is obama ? ,~ Hi there ,~
+ Where is obama ? ,~ Whats up ,~
+ Where is obama ? ,~ Whats up ,~
+ Where is obama ? ,~ Hey ,~
+ WHere is obama ? ,~ Salutations ,~
+ bonour ,~ Can I help you? ,~
+ justin bieber ,~ Can I help you? ,~
+ bieber ,~ Can I help you? ,~
+ bieber ,~ Can I help you? ,~
+ Who is Justin Bieber ,~ Ahoy ,~
+ what is justin bieber doing ,~ Hello ,~
+ justin bieber ,~ Howdy ,~
+ justin bieber ,~ Hello ,~
+ bieber ,~ Do you need help? ,~
+ boobs ,~ Do you need help? ,~
+ boobs ,~ Do you need help? ,~
+ boobs ,~ Do you need help? ,~
+ boobs ,~ Do you need help? ,~
+ boobies ,~ Do you need help? ,~
+ thebatman ,~ Do you need help? ,~
+ what is ruby on rails ,~ Do you need help? ,~
+ fuck justin bieber ,~ Greetings ,~

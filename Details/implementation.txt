@@ -1,0 +1,2 @@
+what,~ An implementation is the idea and understanding of a technical specification or algorithm as a program, software component, or other computer system through computer programming.
+

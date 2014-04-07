@@ -1,0 +1,9 @@
+node, node property, heap property, property,~ ,~
+
+sort, heapsort,~ A sorting algorithm mainly used for arrays and lists due to its favourable worst-case runtime but it is not a stable sort.,~
+
+preorder,~ Preorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the parent node first, then the left child and then the right child.,~
+
+inorder,~ Inorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the left child node first, then the parent node and then the right child node.,~
+
+postorder,~ Postorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the left child node first, then the right child node and then the parent node.,~

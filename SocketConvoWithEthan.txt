@@ -1,0 +1,438 @@
+Client: Hello
+Server: Do you need help with anything? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: Do you need help with anything? 
+Server: Do you need help with anything? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: To write a do statement use 'do{...}while(condition)'.  For example, if you want to print the value of an int variable x while it is less that 5 you can write 'do{ System.out.println(x);  x++; }while( x < 5 )'. What other questions do you have about this topic? 
+Client: I am not that smart... yet.
+Server: How else may I be of service? 
+Client: 
+Server: Do you need help? 
+Client: I am not that smart... yet.
+Server: Smell you later 
+Client: 
+Server: Do you need help? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  Anything else regarding this topic? 
+Client: Goodbye 
+Server: Do you need help with anything? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: Have a good one 
+Server: Do you need help with anything? 
+Client: Can I help you? 
+Server: Can I help you? 
+Client: Do you need help? 
+Server: Can I help you? 
+Client: Do you need help? 
+Server: I am confused...
+Want me to search that for you?
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: Sorry, I don't understand. 
+Server: Do you need help? 
+Client: 
+Server: Do you need help? 
+Client: 
+Server: Can I help you? 
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: Can I help you? 
+Server: Can I help you? 
+Client: Adios 
+Server: Do you need help with anything? 
+Client: Do you need help? 
+Server: Do you need help with anything? 
+Client: Do you need help? 
+Server: I am confused...
+Want me to search that for you?
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help with anything else? 
+Client: 
+Server: Do you need help with anything? 
+Client: Sorry, I don't understand. 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: 
+Server: Do you need help? 
+Client: Can I help you? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: I am confused...
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: 
+Server: Do you need help? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: Later 
+Server: Do you need help? 
+Client: Can I help you? 
+Server: Can I help you? 
+Client: Do you need help with anything? 
+Server: Can I help you? 
+Client: Peace out 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: A Java reserved word that is a reference to the object executing the code making the reference.  Anything else regarding this topic? 
+Client: Do you need help? 
+Server: Do you need help? 
+Client: Do you need help? 
+Server: I am confused...
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Have a good day 
+Client: 
+Server: Do you need help? 
+Client: Have a good one 
+Server: I am confused...
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Smell you later 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: A Java reserved word that is a reference to the object executing the code making the reference.  What other questions do you have about this topic? 
+Client: Smell ya later 
+Server: Can I help you? 
+Client: Can I help you? 
+Server: Do you need help with anything? 
+Client: Do you need help with anything? 
+Server: Can I help you? 
+Client: Do you need help with anything? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: Do you need help with anything? 
+Client: Do you need help with anything? 
+Server: I am confused...
+Want me to search that for you?
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help? 
+Client: 
+Server: Can I help you? 
+Client: I am not that smart... yet.
+Server: So long 
+Client: Can I help you? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Catch you later 
+Server: Catch is a Java reserved word that is used to specify an exception handler, defined after a try block.  Anything else regarding this topic? 
+Client: Sorry, I don't understand. 
+Server: Can I help you? 
+Client: 
+Server: Do you need help with anything? 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: Farewell 
+Server: Have a good one 
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help? 
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: 
+Server: Do you need help with anything? 
+Client: I am confused...
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  What other questions do you have about this topic? 
+Client: Do you need help? 
+Server: Can I help you? 
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: 
+Server: Do you need help with anything? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: A Java reserved word that is a reference to the object executing the code making the reference.  What other questions do you have about this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  Anything else regarding this topic? 
+Client: Do you need help with anything? 
+Server: Do you need help with anything? 
+Client: Do you need help with anything? 
+Server: I am confused...
+Want me to search that for you?
+Client: Can I help you? 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Catch you later 
+Client: 
+Server: Can I help you? 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Farewell 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  Anything else regarding this topic? 
+Client: Do you need help with anything? 
+Server: Do you need help? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: To write a do statement use 'do{...}while(condition)'.  For example, if you want to print the value of an int variable x while it is less that 5 you can write 'do{ System.out.println(x);  x++; }while( x < 5 )'. Anything else regarding this topic? 
+Client: Sorry, I don't understand. 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: 
+Server: Do you need help with anything? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: Can I help you? 
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: Do you need help? 
+Client: Can I help you? 
+Server: I am confused...
+Want me to search that for you?
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help with anything else? 
+Client: A Java reserved word that is a reference to the object executing the code making the reference.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: I am confused...
+Server: Do you need help? 
+Client: 
+Server: Do you need help? 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: 
+Server: Can I help you? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: Sorry, I don't understand. 
+Server: Do you need help? 
+Client: 
+Server: Can I help you? 
+Client: I am confused...
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Smell you later 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: 
+Server: Can I help you? 
+Client: I am not that smart... yet.
+Server: Farewell 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: Sorry, I don't understand. 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  Anything else regarding this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help with anything? 
+Client: Take care 
+Server: Catch you later 
+Client: Can I help you? 
+Server: I am confused...
+Want me to search that for you?
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: I am confused...
+Server: Do you need help with anything? 
+Client: 
+Server: Do you need help with anything? 
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Can I help you? 
+Server: I am confused...
+Want me to search that for you?
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: Bye 
+Server: Do you need help with anything? 
+Client: Do you need help with anything? 
+Server: Do you need help with anything? 
+Client: Adios 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: I am confused...
+Server: Do you need help with anything? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: Do you need help? 
+Client: Catch you later 
+Server: Catch is a Java reserved word that is used to specify an exception handler, defined after a try block.  Anything else regarding this topic? 
+Client: Can I help you? 
+Server: Can I help you? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: Do you need help with anything? 
+Client: Do you need help with anything? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: I am confused...
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: 
+Server: Can I help you? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  What other questions do you have about this topic? 
+Client: Do you need help with anything? 
+Server: Do you need help? 
+Client: Do you need help with anything? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: 
+Server: Can I help you? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Can I help you? 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Later 
+Client: 
+Server: Can I help you? 
+Client: Sorry, I don't understand. 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: 
+Server: Do you need help? 
+Client: I am confused...
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: I am confused...
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: 
+Server: Do you need help with anything? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: Can I help you? 
+Server: Do you need help? 
+Client: Do you need help? 
+Server: Do you need help? 
+Client: I'm out 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: I am not that smart... yet.
+Server: Can I help you? 
+Client: I am confused...
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Have a good day 
+Client: Peace out 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Sorry, I don't understand. 
+Server: I am confused...
+Want me to search that for you?
+Client: 
+Server: Do you need help with anything? 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Can I help you? 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: A Java reserved word that is a reference to the object executing the code making the reference.  What other questions do you have about this topic? 
+Client: I am not that smart... yet.
+Server: Do you need help? 
+Client: 
+Server: Do you need help? 
+Client: Sorry, I don't understand. 
+Server: I am confused...
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Sayonara 
+Client: I am confused...
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Later 
+Client: I am confused...
+Server: I am confused...
+Want me to search that for you?
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Server: For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.  What other questions do you have about this topic? 
+Client: Do you need help? 
+Server: Do you need help with anything? 
+Client: cya 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: Can I help you? 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: I am not that smart... yet.
+Server: Take care 
+Client: 
+Server: Do you need help? 
+Client: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Server: A Java reserved word that specifies a simple conditional construct.  Anything else regarding this topic? 
+Client: Do you need help with anything? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  What other questions do you have about this topic? 
+Client: I am confused...
+Server: Do you need help? 
+Client: A Java reserved word that is a reference to the object executing the code making the reference.  Anything else regarding this topic? 
+Server: Do you need help? 
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: See you later 
+Server: Can I help you? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: A Java reserved word that is a reference to the object executing the code making the reference.  What other questions do you have about this topic? 
+Client: Do you need help? 
+Server: Do you need help with anything? 
+Client: Do you need help? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
+Client: Do you need help? 
+Server: A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.  Anything else regarding this topic? 
+Client: A Java reserved word that specifies a simple conditional construct.  What other questions do you have about this topic? 
+Server: Can I help you? 
+Client: Do you need help? 
+Server: I am not that smart... yet.
+Want me to search that for you?
+Client: Can I help you? 
+Server: Sorry, I don't understand. 
+Want me to search that for you?
