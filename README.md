@@ -40,6 +40,8 @@ NEW FEATURES (Final Project)
 -Makes use of the GoogleTranslate API to allow the conversation to be held in either English, French, or Spanish. The language you want to converse in can be selected using the radio buttons in the GUI. However, if either Spanish or French are selected, the features that use the Twitter4J and WolframAlpha API's won't work properly. 
 
 
+JavaDocs can be found in the docs folder of this repo
+
 
 -------------------------
 
