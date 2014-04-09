@@ -6,7 +6,7 @@ public class WolfTest {
 	 */
 	public static void main(String[] args) {
 		Wolfy wolfy = new Wolfy();
-		System.out.print(wolfy.searchWolfram("who is obama"));
+		System.out.print(wolfy.searchWolfram("x+2, x=2"));
 		
 	}
 

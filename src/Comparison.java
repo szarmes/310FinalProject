@@ -74,5 +74,16 @@ public class Comparison {
 			}
 			return result;
 		}
+		
+		public static boolean containsOperation(String str){
+			boolean result = false;
+			for(int i = 0;i<str.length();i++){
+				if (str.charAt(i)=='+' || str.charAt(i)=='-' || str.charAt(i)=='/' || str.charAt(i)=='*'){
+					result = true;
+					break;
+				}
+			}
+			return result;
+		}
 
 }

@@ -136,6 +136,9 @@ public class Codebot {
                 else if (response.length()>5&&response.substring(0,6).toLowerCase().equals("who is")){
                 	codebotResponse = wolfy.searchWolfram(response) + "\n" + reprompt();
                 }
+                else if (Comparison.containsOperation(response)){
+                	codebotResponse = wolfy.searchWolfram(response) + "\n" + reprompt();
+                }
                 else{
                 	
                 	//translate to english for processing

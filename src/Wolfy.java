@@ -79,7 +79,7 @@ public class Wolfy {
 									System.out.println(((WAPlainText) el)
 											.getText());
 									toReturn+=p.getTitle();
-									toReturn +=" "+((WAPlainText) el).getText();
+									toReturn +=" "+((WAPlainText) el).getText()+"\n";
 								}
 							}
 						//}
